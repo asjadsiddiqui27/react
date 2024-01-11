@@ -1,0 +1,25 @@
+.section{
+   background-color: rgb(66, 61, 61); 
+   
+   display: flex;
+   align-items: center;
+   /* text-align: center; */
+   justify-content: center;
+   flex-direction: column;
+    
+}
+
+.section2{
+   background-color: rgb(66, 61, 61); 
+   padding: 20px;
+}
+.container{
+    /* display: flex; */
+    /* justify-content: center; */
+}
+
+.mainImg{
+
+    margin: auto;
+
+}

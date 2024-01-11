@@ -1,0 +1,28 @@
+/* .card{
+    width: "10rem";
+    
+} */
+
+
+
+
+
+.imgCard{
+    height: 200px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    margin:  auto;
+
+}
+h1{
+  
+    text-align: center;
+}
+.container{
+    margin-top: 20px;
+    /* background-color: aquamarine; */
+   /* background-color: rgb(66, 61, 61);  */
+
+}
+
